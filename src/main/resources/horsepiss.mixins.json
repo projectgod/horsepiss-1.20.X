@@ -3,7 +3,7 @@
 	"package": "acc.buv.horsepiss.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"BucketItemMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
